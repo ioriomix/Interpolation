@@ -105,7 +105,6 @@ public class InterpolationDataProcessor extends StreamPipesDataProcessor {
     //convert timestamp to double
     Double timestamp= Double.parseDouble(timestampStr);
 
-    //tete++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     //System.out.println("arrayX: " + Arrays.toString(arrayX));
     //System.out.println("arrayY: " + Arrays.toString(arrayY));
 
