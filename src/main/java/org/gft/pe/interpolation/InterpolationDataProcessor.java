@@ -16,7 +16,7 @@
  *
  */
 
-package org.gft.pe.example;
+package org.gft.pe.interpolation;
 
 import org.apache.streampipes.commons.exceptions.SpRuntimeException;
 import org.apache.streampipes.model.DataProcessorType;

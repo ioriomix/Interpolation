@@ -29,7 +29,7 @@ import org.apache.streampipes.messaging.jms.SpJmsProtocolFactory;
 import org.apache.streampipes.messaging.kafka.SpKafkaProtocolFactory;
 import org.apache.streampipes.messaging.mqtt.SpMqttProtocolFactory;
 
-import org.gft.pe.example.InterpolationDataProcessor;
+import org.gft.pe.interpolation.InterpolationDataProcessor;
 
 public class Init extends ExtensionsModelSubmitter {
 

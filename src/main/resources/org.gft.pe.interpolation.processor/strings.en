@@ -1,5 +1,5 @@
-org.gft.pe.example.processor.title=Interpolation
-org.gft.pe.example.processor.description=Calculates the linear interpolation of a monitored value over a certain time interval if greater than a threshold value.
+org.gft.pe.interpolation.processor.title=Interpolation
+org.gft.pe.interpolation.processor.description=Calculates the linear interpolation of a monitored value over a certain time interval if greater than a threshold value.
 
 example-key.title=Example Text Parameter
 example-key.description=Example Text Parameter Description
