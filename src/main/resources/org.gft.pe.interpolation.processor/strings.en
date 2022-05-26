@@ -12,3 +12,6 @@ timestamp_value.description = Timestamp value
 
 threshold.title = Threshold
 threshold.description = Threshold value to apply to interpolation
+
+interpolation_operation.title = Interpolation Operation
+interpolation_operation.description = Choose kind of interpolation to perform
